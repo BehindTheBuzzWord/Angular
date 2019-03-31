@@ -47,13 +47,14 @@ Once this is done, we will be editing the web app and publishing our changes.
 	* Architecture Angular Client App and .NET Core backend
 	* Components
 	* Services
-  * Directives
+  	* Directives
 
-Tooling
+# Tooling
 
 	* dotnet cli
 	* angular cli
-
+	* visual studio code or visual studio
+	* nodejs
 
 # Resources
 
