@@ -28,8 +28,38 @@ For the event, please arrive with the VisualStudio Code installed. Additionally,
 
 ### Creating an Angular web app
 
-As a first step, we will be creating an angular web app with a .net core backend.
+As a first step, we will be creating an angular web app with a .net core backend. Brainstorm an idea of an app. It could be some text displayed on the screen, it could be a list, a table. Anything.
 
 ### Make changes & publish
 
 Once this is done, we will be editing the web app and publishing our changes. 
+
+1. Create a component that provides some data to the view
+2. Create a service that provides data to the component
+3. Create a C# repository that returns the data
+
+
+# Angular concepts to cover:
+
+
+	* Angular
+	* Typescript
+	* Architecture Angular Client App and .NET Core backend
+	* Components
+	* Services
+  * Directives
+
+Tooling
+
+	* dotnet cli
+	* angular cli
+
+
+# Resources
+
+
+	* https://www.dotnetcurry.com/angularjs/1432/aspnet-core-apps-using-angular-cli-template
+	* https://www.dotnetcurry.com/angularjs/1409/angular-cli-tutorial
+	* https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/angular?view=aspnetcore-2.2&tabs=visual-studio
+	* https://angular.io/guide/architecture-components
+
