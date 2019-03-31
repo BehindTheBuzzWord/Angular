@@ -59,6 +59,7 @@ Once this is done, we will be editing the web app and publishing our changes.
 # Resources
 
 
+	* https://angularfirebase.com/lessons/angular-components-basics-top-ten/
 	* https://www.dotnetcurry.com/angularjs/1432/aspnet-core-apps-using-angular-cli-template
 	* https://www.dotnetcurry.com/angularjs/1409/angular-cli-tutorial
 	* https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/angular?view=aspnetcore-2.2&tabs=visual-studio
