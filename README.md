@@ -30,6 +30,19 @@ For the event, please arrive with the VisualStudio Code installed. Additionally,
 
 As a first step, we will be creating an angular web app with a .net core backend. Brainstorm an idea of an app. It could be some text displayed on the screen, it could be a list, a table. Anything.
 
+#### Instructions
+
+	-   dotnet new angular -o hello-world
+	- cd my-new-app
+	- code .
+	- observe files
+	- ClientApp
+		- Pages
+		- Controllers
+	- dotnet run
+
+
+
 ### Make changes & publish
 
 Once this is done, we will be editing the web app and publishing our changes. 
