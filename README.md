@@ -21,7 +21,7 @@ https://www.eventbrite.co.uk/e/behind-the-buzz-word-tickets-56121268224
 Your hosts for this event are Ross Townsend (https://www.linkedin.com/in/rossbtownsend/) and Toli Apostolidis.
 
 # What You Need
-For the event, please arrive with the VisualStudio Code installed. Additionally, please have .NET Core 2.1 installed.
+For the event, please arrive with the VisualStudio Code installed. Additionally, please have .NET Core 2.1 installed. Having Nodejs installed as well would be useful so that we can use npm.
 
 
 # What we will be doing
@@ -39,8 +39,7 @@ Once this is done, we will be editing the web app and publishing our changes.
 3. Create a C# repository that returns the data
 
 
-# Angular concepts to cover:
-
+# Angular concepts:
 
 	* Angular
 	* Typescript
